@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to ATPBank accounts related local APIs "
   contactDetails:
     name: "John Doe - Developer"
-    email: "john@atpbank.com"
+    email: "{cipher}be7f5dde0258afe69c699e206820ccbf467b3dcddd79d19be8c2eb0961df6e28797d907e6845f9d60380015e007f6454"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
