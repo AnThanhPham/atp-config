@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to ATPBank accounts related local APIs "
+  message: "Welcome to ATPBank accounts related local API"
   contactDetails:
     name: "John Doe - Developer"
     email: "{cipher}be7f5dde0258afe69c699e206820ccbf467b3dcddd79d19be8c2eb0961df6e28797d907e6845f9d60380015e007f6454"
